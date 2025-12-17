@@ -37,8 +37,12 @@
 
 ### 📊 GitHub Stats  
 
-![Cristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZensykU2&show_icons=true&theme=transparent&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZensykU2&layout=compact&theme=transparent&hide_border=true)
+**Here’s a quick look at my GitHub activity and languages.**
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZensykU2&show_icons=true&theme=transparent&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZensykU2&layout=compact&theme=transparent&hide_border=true" height="150"/>
+</div>
 
 ---
 
