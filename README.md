@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Cristian (ZensykU2)
 
 🎓 I'm a **software development apprentice** from 🇨🇭 **Switzerland**, passionate about building clean systems, creative tools, and small games.  
-💻 Currently learning full‑stack development with **C# (.NET, Blazor)**, **Go**, **Python**, and **React + TypeScript**, while preparing for my **BM** and future **Game Development studies at HSLU**.
+💻 Building full‑stack applications with C# (.NET, Blazor), Go, Python, and React + TypeScript, while preparing for my BM and future Game Development studies at HSLU.
 
 ---
 
@@ -9,8 +9,8 @@
 💡 Backend & API engineering  
 🎮 Game development (Unity, custom engines, React prototypes)  
 ⚙️ Systems programming in Go & C#  
-🐳 Docker, DevOps basics & service orchestration  
-✍️ Writing dev blogs and improving my English (C1 Cambridge prep)
+🐳 Docker, DevOps fundamentals & service orchestration  
+✍️ Technical writing & English improvement (C1 Cambridge prep)
 
 ---
 
@@ -18,12 +18,13 @@
 
 | 🧩 Project | 📄 Description | 🛠️ Tech Stack |
 |:-----------|:---------------|:--------------|
-| **SSL/TLS Checker** | Dockerized microservice that tracks certificate expiries and sends email alerts via SendGrid. | 🐍 Python · 🐳 Docker · 🗃 PostgreSQL |
-| **Blog API** | RESTful API for managing and exposing blog posts. Will power my future portfolio and blog site. | ⚙️ .NET · 🐹 Go · 🗃 PostgreSQL |
-| **React Strategy Game Prototype** | Grid-based builder with real-time construction and offline progression. | ⚛️ React · 📘 TypeScript |
-| **Go Reverse Proxy + HTTP Server** | Lightweight networking stack written in Go with minimal external libs. | 🐹 Go · 🔌 TCP/HTTP |
-| **EV3 Security Bot** | Patrol robot program for LEGO EV3 bricks responding to simple events and sensors. | 🤖 EV3 · 🐍 Python |
-| **Garden Document Generator** | Desktop automation tool built for my mother’s work to streamline document workflows. | 💼 C# · 🪟 Windows EXE |
+| **Mobile Budget App** | Cross‑platform budgeting app with real‑time sync and offline‑first design. | 📱 Expo · ⚛️ React Native · 🔥 Convex |
+| **Media Downloader CLI** | yt‑dlp + ffmpeg wrapper packaged as a standalone executable for Windows, macOS, and Linux. | 🐍 Python · 🎬 ffmpeg · 🧰 CLI |
+| **SSL/TLS Checker** | Dockerized microservice that tracks certificate expiries and sends email alerts. | 🐍 Python · 🐳 Docker · 🗃 PostgreSQL |
+| **Blog API** | REST API powering my future portfolio and blog platform. | ⚙️ .NET · 🐹 Go · 🗃 PostgreSQL |
+| **React Strategy Game Prototype** | Grid‑based builder with real‑time construction and offline progression. | ⚛️ React · 📘 TypeScript |
+| **Go Reverse Proxy + HTTP Server** | Lightweight networking stack written in Go with minimal external dependencies. | 🐹 Go · 🔌 TCP/HTTP |
+| **Garden Document Generator** | Desktop automation tool built to streamline real‑world document workflows. | 💼 C# · 🪟 Windows |
 
 ---
 
@@ -33,6 +34,11 @@
 - 🚀 Keep building creative open‑source tools and small games  
 - 🌐 Expand my **blog & portfolio ecosystem** with public APIs  
 
+### 🚧 Currently Building
+- 📱 Expanding my **Budget App** with analytics & export features  
+- 🎬 Improving cross‑platform support for my **Media Downloader CLI**  
+- 🌐 **Blog App / Social Platform** — a full‑featured, long‑term project evolving into a social blogging ecosystem (auth, profiles, follows, rich editor, engagement, notifications). Actively developed as a solo project.
+  
 ---
 
 ### 📊 GitHub Stats  
