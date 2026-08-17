@@ -61,13 +61,13 @@ interaction with the Windows debugging model is documented where it happens.
 A local-first file launcher. A Rust indexer feeds a SQLite FTS index for instant search
 across configured roots, with live file watching, watcher-overflow fallback, bounded
 diagnostics, and a full local-data reset path. Nothing about the user's filesystem leaves
-the device — the privacy model is specified table by table in the README.
+the device, the privacy model is specified table by table in the README.
 
 **[Wädi Alphütte — Finance & Budget Manager](https://github.com/ZensykU2/WaediAlphuette)** — `Electron` `React` `TypeScript` `SQLite`
 
 A bookkeeping application built for a real Swiss alpine cabin. Its core is a beverage
-settlement system that tracks three distinct consumption streams — guest sales at retail
-price, self-consumption at cost price, and helper consumption at zero revenue — with
+settlement system that tracks three distinct consumption streams, guest sales at retail
+price, self-consumption at cost price, and helper consumption at zero revenue, with
 automatic weekly snapshots, ledger integration, budget monitoring, Recharts reporting, and
 Excel export. Fully localized in German, tested with Vitest, and documented for both end
 users and developers.
